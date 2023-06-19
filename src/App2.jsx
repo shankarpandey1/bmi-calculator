@@ -8,9 +8,9 @@ import BmiForm2 from './components/BmiForm2';
 function App2() {
   
 const [state, setState] = useState({
-    height: " ",
-    weight: " ",
-    result: " ",
+    height: "",
+    weight: "",
+    result: "",
 });
 
 
